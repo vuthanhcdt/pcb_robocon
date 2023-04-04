@@ -1,6 +1,6 @@
 # PCB Robocon-DCN ME V1.0
 
-Mục tiêu của mã nguồn này là xây dựng bộ mạch tiêu chuẩn cho Robocon các năm, làm nền tảng để phát triển. Bộ mạch được đúc kết kinh nghiệm từ năm 2018, và trải qua các năm vẫn ổn định để hoạt động. Trong bộ mạch tiêu chuẩn này sẽ chia làm ba thành phần chính có trên robot: bộ điều khiển trung tâm là vi điều khiển STM32F407, bộ kích 16 van điều khiển và bộ đọc tín hiệu 16 cảm biến qua opto cách ly quang. Mục đích của việc chia các module riêng lẻ nhằm tăng tính thẩm mĩ khi lắp đặt trên robot cũng như dễ dàng bố trí và thay thế các board mạch khi cần thiết.
+Mục tiêu của mã nguồn này là xây dựng bộ mạch tiêu chuẩn cho Robocon các năm, làm nền tảng để phát triển. Bộ mạch được đúc kết kinh nghiệm từ năm 2018, và trải qua các năm vẫn ổn định để hoạt động. Trong bộ mạch tiêu chuẩn này sẽ chia làm ba thành phần chính có trên robot: bộ điều khiển trung tâm là vi điều khiển STM32F407, bộ kích 16 van điều khiển và bộ đọc tín hiệu 16 cảm biến qua opto cách ly quang. Mục đích của việc chia các module riêng lẻ nhằm tăng tính thẩm mỹ khi lắp đặt trên robot cũng như dễ dàng bố trí và thay thế các board mạch khi cần thiết.
 
 ## Main điều khiển STM32F407 (Mai Duy Quang)
 
