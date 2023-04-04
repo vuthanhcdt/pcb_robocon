@@ -3,7 +3,7 @@
 Trong các năm gần đây, các đội thi dần bắt đầu chuyển sang các tay điều khiển không dây sử dụng sóng Bluetooth (2018), đem lại sự thuận lợi trong quá trình điều khiển robot với tốc độ cao. Tuy nhiên các tay điều khiển này thông thường sẽ được các đội thiết kế một mạch và kết nối tới tay PS2, gây hạn chế về kết nối và không ổn định. Chính vì vậy, dựa trên các yếu tố yếu cầu về độ ổn định, khoảng cách kết nối và độ tiện lợi, tay PS3 sẽ được sử dụng làm tiêu chuẩn cho tay điều khiển không dây.
 
 ## Công việc giải quyết
-- [X] Main điều khiển chính vi điều khiển STM32F407;
+- [X] Main robot chạy trên vi điều khiển STM32F407;
 - [X] Mạch Input đọc tín hiệu cảm biết cách ly quang;
 - [X] Mạch điều khiển van qua ULN2803 có cách ly quang.
 
