@@ -7,7 +7,7 @@ Trong các năm gần đây, các đội thi dần bắt đầu chuyển sang c�
 - [X] Mạch Input đọc tín hiệu cảm biết cách ly quang;
 - [X] Mạch điều khiển van qua ULN2803 có cách ly quang.
 
-## Người tham chiếu
+## Thành viên đóng góp chính
 1. [Mai Duy Quang](K12)(https://www.facebook.com/mdq198)
 2. [Nguyễn Văn Đăng](K11)(https://www.facebook.com/profile.php?id=100006243600874)
 3. [Nguyễn Hữu Tuấn](K11)(https://www.facebook.com/tuannguyen.999999)
