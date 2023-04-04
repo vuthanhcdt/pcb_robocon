@@ -8,9 +8,9 @@ Trong các năm gần đây, các đội thi dần bắt đầu chuyển sang c�
 - [X] Mạch điều khiển van qua ULN2803 có cách ly quang.
 
 ## Người tham chiếu
-1. Mai Duy Quang (K12)(https://www.facebook.com/mdq198)
-2. Nguyễn Văn Đăng (K11)(https://www.facebook.com/profile.php?id=100006243600874)
-3. Nguyễn Hữu Tuấn (K11)(https://www.facebook.com/tuannguyen.999999)
+1. [Mai Duy Quang](K12)(https://www.facebook.com/mdq198)
+2. [Nguyễn Văn Đăng](K11)(https://www.facebook.com/profile.php?id=100006243600874)
+3. [Nguyễn Hữu Tuấn](K11)(https://www.facebook.com/tuannguyen.999999)
 4. [Vũ Công Thành (K10)](https://sites.google.com/view/vuthanhcdt/home)
 5. [Lê Đức Thuận (K10)](https://www.facebook.com/thuan.ld97)
 6. [Các thành viên HaIBot Lab](https://sites.google.com/view/haibot-lab/)
