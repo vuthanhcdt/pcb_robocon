@@ -1,6 +1,12 @@
 # PCB Robocon-DCN ME V1.0
 
-Trong các năm gần đây, các đội thi dần bắt đầu chuyển sang các tay điều khiển không dây sử dụng sóng Bluetooth (2018), đem lại sự thuận lợi trong quá trình điều khiển robot với tốc độ cao. Tuy nhiên các tay điều khiển này thông thường sẽ được các đội thiết kế một mạch và kết nối tới tay PS2, gây hạn chế về kết nối và không ổn định. Chính vì vậy, dựa trên các yếu tố yếu cầu về độ ổn định, khoảng cách kết nối và độ tiện lợi, tay PS3 sẽ được sử dụng làm tiêu chuẩn cho tay điều khiển không dây.
+Mục tiêu của mã nguồn này là xây dựng bộ mạch tiêu chuẩn cho Robocon các năm, làm nền tảng để phát triển. Bộ mạch được đúc kết kinh nghiệm từ năm 2018, và trải qua các năm vẫn ổn định để hoạt động. Trong bộ mạch tiêu chuẩn này sẽ chia làm ba thành phần chính có trên robot: bộ điều khiển trung tâm là vi điều khiển STM32F407, bộ kích 16 van điều khiển và bộ đọc tín hiệu 16 cảm biến qua opto cách ly quang. Mục đích của việc chia các module riêng lẻ nhằm tăng tính thẩm mĩ khi lắp đặt trên robot cũng như dễ dàng bố trí và thay thế các board mạch khi cần thiết.
+
+## Main điều khiển STM32F407 (Mai Duy Quang)
+
+## Mạch Input (Nguyễn Văn Đăng)
+
+## Mạch Output (Nguyễn Hữu Tuấn)
 
 ## Công việc giải quyết
 - [X] Main robot chạy trên vi điều khiển STM32F407;
