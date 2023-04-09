@@ -8,12 +8,8 @@ Mục tiêu của mã nguồn này là xây dựng bộ mạch tiêu chuẩn cho
 - [X] Mạch điều khiển van qua ULN2803 có cách ly quang.
 
 ## Thành viên đóng góp chính
-1. [Mai Duy Quang (K12)](https://www.facebook.com/mdq198)
-2. [Nguyễn Văn Đăng (K11)](https://www.facebook.com/profile.php?id=100006243600874)
-3. [Nguyễn Hữu Tuấn (K11)](https://www.facebook.com/tuannguyen.999999)
-5. [Vũ Công Thành (K10)](https://sites.google.com/view/vuthanhcdt/home)
-6. [Lê Đức Thuận (K10)](https://www.facebook.com/thuan.ld97)
-7. [Các thành viên HaIBot Lab](https://sites.google.com/view/haibot-lab/)
+1. [Vũ Công Thành (K10)](https://sites.google.com/view/vuthanhcdt/home)
+2. [Các thành viên HaIBot Lab](https://sites.google.com/view/haibot-lab/)
 
 Các thông tin được cập nhật theo từng năm với mong muốn tạo ra các nền tảng để tiếp lửa cho khóa sau, do vậy khi sử dụng vui lòng trích dẫn các thông tin này và phát triển theo từng năm. Không chia sẻ các thông tin này với bất kỳ ai khác ngoài đội Robocon DCN-ME 
 
